@@ -151,6 +151,13 @@ In each module:
 
 ---
 
+class: center, middle
+
+```{r, out.height="75%", out.width="75%", echo = FALSE}
+knitr::include_graphics("img/help.png")
+```
+
+---
 ## Your Turn 1
 
 ## Introduce yourself to your neighbors. We have lots of people to help you out today, but the person sitting next to you might be your best resource!
