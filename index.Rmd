@@ -34,5 +34,5 @@ htmltools::includeCSS("https://raw.githubusercontent.com/malcolmbarrett/kakashi/
 ### [03-document](r_packages_document/index.html)
 ### [04-test](r_packages_test/index.html)
 ### [05-teach](r_packages_teach/index.html)
-### [06-add_files](r_packages_add_files /index.html)
+### [06-add_files](r_packages_add_files/index.html)
 
