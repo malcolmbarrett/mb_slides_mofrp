@@ -1,0 +1,38 @@
+---
+title: "My Organization's First R Package Slides"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, fig.align = "center", dpi = 320)
+library(tidyverse)
+```
+
+
+```{r, css_theme, echo=FALSE}
+htmltools::includeCSS("https://raw.githubusercontent.com/malcolmbarrett/kakashi/master/kakashi.css")
+```
+
+
+### [welcome](welcome/index.html)
+### [00-whole_game](r_packages_whole_game2/index.html)
+### [01-setup](r_packages_setup/index.html)
+### [02-write_code](r_packages_write_code/index.html)
+### [03-document](r_packages_document/index.html)
+### [04-test](r_packages_test/index.html)
+### [05-teach](r_packages_teach/index.html)
+### [06-add_files](r_packages_add_files /index.html)
+
